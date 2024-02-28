@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Naquibuddin Shaik<br>Current Position WCMS Developer at the University of North Texas.<br>Education: Pursuing Data Science with a passion for innovation.<br>Data Science Enthusiast: Eager to explore and leverage data for insights.<br>Open to Collaboration: Ready to connect and collaborate on exciting projects.
+Hey, I'm Naquibuddin Shaik<br>Current Position WCMS Developer at the University of North Texas.<br>Education: Pursuing Data Science @ UNT with a passion for innovation.<br>Data Science Enthusiast: Eager to explore and leverage data for insights.<br>Open to Collaboration: Ready to connect and collaborate on exciting projects.
 
 
 ## 🌐 Socials:
